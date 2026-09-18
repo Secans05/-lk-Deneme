@@ -2,3 +2,6 @@ Mr.Fantastic
 The Thing
 Johnny Storm
 Sue Storm
+Dr.Doom
+Galactus
+Silver Surfer
